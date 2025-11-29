@@ -62,7 +62,7 @@ Adicionalmente podríamos recoger otros datos como:
  
 ### 2. Evaluación del caso
 
-Técnicamente aún no nos hemos manchado las manos, teniendo algo más de información nos permitirá tomar las siguientes desiciones: 
+Técnicamente aún no nos hemos manchado las manos, teniendo algo más de información nos permitirá tomar las siguientes decisiones: 
 
 1. Desistir, Comprar y remplazar.
 2. Contratar alguien especializado.
@@ -76,7 +76,7 @@ Mediante una serie de preguntas a partir de los siguientes puntos, evaluaremos s
 4. nivel de urgencia.
 5. viabilidad.
 
-Hemos escogido este orden, porque pensamos que nos ayudará a tomar desiciones o descartar las intenciones a medida que nos vayamos cuestionando cada punto. 
+Hemos escogido este orden, porque pensamos que nos ayudará a tomar decisiones o descartar las intenciones a medida que nos vayamos cuestionando cada punto. 
 
 
 ### Definición de las soluciones y procesos de acción
@@ -117,13 +117,13 @@ Pondremos en práctica lo anteriormente definido.
 4. Observaciones: El Horno está metido dentro de una caja, no tiene un acceso directo y el problema no parece estar en la parte externa.
 5. Fecha: 01-01-2025
 6. Fecha de adquisición: 2016
-7. Historial: No hemos tenido ninguna inicidencia previamente.
+7. Historial: No hemos tenido ninguna incidencia previamente.
 
 #### Evaluación del caso
 
 1. **Valor orientativo**: ¿Cúal es el coste de uno original o alternativo? Este modelo ya no está disponible, pero una versión más reciente está en torno a los 500 Euros.
 
-2. **Accesibilidad**: En algunos videos de modelos similares observamos que se puede desmontar facilmente, por tanto, es accesible.
+2. **Accesibilidad**: En algunos videos de modelos similares observamos que se puede desmontar fácilmente, por tanto, es accesible.
 
 3. **Seguridad**: Tomando algunas medidas básicas, como cortar la luz, preparar la zona, herramientas y demás, abrir y mirar no nos supondrá riesgo, en el peor de los casos, remplazaremos el horno.
 
@@ -132,11 +132,9 @@ Pondremos en práctica lo anteriormente definido.
 5. **Viabilidad**: El precio de uno nuevo, es asumible, pero ¿qué haremos con el horno viejo? Por lo demás, parece viable. Así que nos ponemos manos a la obra.
 
 
-Iniciamos un diagnóstico, concluímos que el problema lo provoca un termostato, no encontramos el original, pero si que encontramos uno compatible por características. La substitución del termostato es más económica que comprar un horno nuevo. Concluímos que este caso es viable. 
-
 #### Acciones 
 
-En este caso, empezamos por el diagnóstico. En el procceso de diagnóstico identificamos el problema. El problema lo provoca un termostato, el inconveniente es que no encontramos el componente original, por tanto, tendremos que buscar una solución alternativa. 
+En este caso, empezamos por el diagnóstico. En el proceso de diagnóstico identificamos el problema. El problema lo provoca un termostato, el inconveniente es que no encontramos el componente original, por tanto, tendremos que buscar una solución alternativa. 
 
 Encontramos una solución alternativa, empezamos con el mantenimiento correctivo. Teniendo en cuenta que nuestro horno es de hasta 250 grados, adaptamos un termostato compatible con esas características. Presentan, algunas consideraciones, pero funciona. 
 
@@ -160,21 +158,23 @@ El problema es evidente, pasamos registrar el caso
 
 #### Evaluación del caso
 
-1. **Valor orientativo**: ¿Cúal es el coste de uno original o alternativo? Este modelo ya no está disponible, pero una versión más reciente está en torno a los 60 Euros.
+1. **Valor orientativo**: ¿Cual es el coste de uno original o alternativo? Este modelo ya no está disponible, pero una versión más reciente está en torno a los 60 Euros.
 
-2. **Accesibilidad**: En algunos videos de modelos similares observamos que se puede desmontar facilmente, por tanto, es accesible.
+2. **Accesibilidad**: En algunos videos de modelos similares observamos que se puede desmontar fácilmente, por tanto, es accesible.
 
 3. **Seguridad**: Tomando algunas medidas básicas, como cortar el paso de agua, preparar la zona, herramientas y demás, abrir y mirar no nos supondrá riesgo, en el peor de los casos, remplazaremos todo el grifo o pediremos un servicio externo urgente.
 
 4. **Nivel de urgencia**: No nos imposibilita el acceso al uso de este elemento, pero sí es molesto. Tenemos un margen de tiempo razonable.
 
-5. **Viabilidad**: Tener que comprar uno nuevo y adaptarlo, es algo quizá más complicado que intentar repararlo. Teniendo en cuenta, la información previa y que ya la hemos reparado. Itentarlo nuevamente, no resulta viable.
+5. **Viabilidad**: Tener que comprar uno nuevo y adaptarlo, es algo quizá más complicado que intentar repararlo. Teniendo en cuenta, la información previa y que ya la hemos reparado. Intentarlo nuevamente, no resulta viable.
 
 #### Acciones
 
 Empezamos realizando un diagnóstico e identificamos la posible causa, La junta totalmente desgastada. Esta vez no había fuga o goteo, pero provocaba este comportamiento. 
 
 Aplicamos un mantenimiento paliativo. No encontramos la junta o repuesto en una tienda cercana, pero si teníamos una junta usada a mano. Remplazamos y recuperamos el fucnionamiento corriente. 
+
+Para una solución definitiva, bastará con buscar la junta adecuada y remplazarla. 
 
 ---
 
@@ -208,7 +208,12 @@ Empezamos con el registro
 
 #### Acciones
 
-Pasamos a realizar diagnóstico y pruebas. Vemos que no hay nada anormal en la bandeja de impresión, seguimos la guía y cerramos la impresora. 
+Diagnósticamos. pero sobre el problema del papel atascado, no conseguimos resolver el problema, aunque días después, volvió a imprimir con normalidad... 
 
-Concluímos en que la remplazaremos...
+Reemplazarlo pronto será la acción a tomar.
+
+Sobre el problema de fallo de conexión. Revisamos la configuración de la impresora, finalmente, identificamos el problema, el DCHP estaba configurado en modo manual. Los pusimos en modo automático para que el router se encargue de gestionar las IP's, de este modo, recuperamos el funcionamiento.
+
+--- 
+
 
